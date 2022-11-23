@@ -1,4 +1,4 @@
-<img align='right' src="https://img.freepik.com/vector-premium/dibujo-dibujos-animados-programador_29937-8176.jpg" width="300">
+<img align='right' src="https://res.cloudinary.com/ddhkec46t/image/upload/v1669176390/dibujo-dibujos-animados-programador_29937-8176-removebg-preview_j3eefg.png" width="300">
 
 ### Hi there 👋 I´m Mateo
 
